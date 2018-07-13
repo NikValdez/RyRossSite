@@ -91,31 +91,10 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Social</h2>
-
-          <div id="curator-feed-main">
-            <a
-              href="https://curator.io"
-              target="_blank"
-              className="crt-logo crt-tag"
-            />
-          </div>
-
-          <script type="text/javascript">
-            {(function() {
-              var i,
-                e,
-                d = document,
-                s = 'script'
-              i = d.createElement('script')
-              i.async = 1
-              i.src =
-                'https://cdn.curator.io/published/86d5c401-f764-4c2d-8013-21cc35a8a4e5.js'
-              e = d.getElementsByTagName(s)[0]
-              e.parentNode.insertBefore(i, e)
-            })()};
-          </script>
-
+          <h2 className="major">Parternships</h2>
+          <span className="image main">
+            <img src={pic03} alt="" />
+          </span>
           <p>
             Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
             eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
