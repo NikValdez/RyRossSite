@@ -19,9 +19,9 @@ const Header = props => (
         <p>
           Hey! Im Ryan, a professional basketball player currently living in
           Japan.
-          <a href="https://ryross.com"> Find out</a> more info <br />
-          about me below
-          <a href="https://ryross.com"> or contact on social</a>.
+          <a href="https://ryross.com"> Find out</a> more<br />
+          about me below,
+          <a href="https://ryross.com"> or contact me on social</a>.
         </p>
       </div>
     </div>
